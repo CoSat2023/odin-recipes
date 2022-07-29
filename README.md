@@ -1,3 +1,2 @@
-Friday, July 29th, 2022
-This is my first project as part of the Odin Project, a full-stack development course. This project is a simple recipe website. After completing this first iteration of this project, I will have utilized the following skills:
+This is a simple recipe project for learning Front-End development basics. It is part of the curriculum for the Odin Project
 
